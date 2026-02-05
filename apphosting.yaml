@@ -6,7 +6,7 @@ env:
     availability:
       - BUILD
       - RUNTIME
-    secret: AIzaSyAx7g3WjEgubNLvg_qqa1SvCvnsasCG-Ts
+    value: AIzaSyAx7g3WjEgubNLvg_qqa1SvCvnsasCG-Ts
 
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
     availability:
